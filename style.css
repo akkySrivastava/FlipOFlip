@@ -208,13 +208,13 @@ body{
     transform: translateY(0)
 }
 
-@media (max-width: 600px)
+@media (max-width: 400px)
 {
     .game-container{
         grid-template-columns: repeat(4,auto);
     }
     .game-info-container{
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 }

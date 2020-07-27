@@ -30,7 +30,7 @@ body{
     font-family: Creepy, serif;
     font-weight: normal;
     text-align: center;
-    font-size: 6em;
+    font-size: 4em;
 }
 
 .game-info-container{
@@ -42,7 +42,7 @@ body{
 .game-info{
     color: #f1eae4;
     font-family: Lunacy, serif;
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .game-container{
@@ -51,7 +51,7 @@ body{
     grid-gap: 10px;
     margin: 50px;
     justify-content: center;
-    perspective: 500px;
+    perspective: 300px;
 }
 
 .card{

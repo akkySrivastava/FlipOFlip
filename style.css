@@ -48,8 +48,8 @@ body{
 .game-container{
     display: grid;
     grid-template-columns: repeat(4,auto) ;
-    grid-gap: 10px;
-    margin: 50px;
+    grid-gap: 5px;
+    margin: 25px;
     justify-content: center;
     perspective: 300px;
 }
